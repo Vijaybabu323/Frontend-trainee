@@ -1,0 +1,22 @@
+{
+    "categories": [
+      {
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "name": "Cloud Accounts",
+            "description": "Shows the cloud accounts connected"
+          },
+          {
+            "name": "Cloud Account Risk Assessment",
+            "description": "Provides an assessment of the cloud account risks"
+          }
+        ]
+      },
+      {
+        "name": "CWPP Dashboard",
+        "widgets": []
+      }
+    ]
+  }
+  
